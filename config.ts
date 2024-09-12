@@ -3,7 +3,7 @@ import type { Config } from "./src/types/config";
 export const config: Config = {
 	// General
 	name: "Deniz",
-	openInNewTab: true,
+	openInNewTab: false,
 	title: "New Tab",
 
 	// Clock
@@ -119,9 +119,9 @@ export const config: Config = {
 				url: "https://www.instagram.com",
 			},
 			{
-				name: "X", 
-				icon: "fab-x-twitter", 
-				url: "https://x.com/home", 
+				name: "X",
+				icon: "fab-x-twitter",
+				url: "https://x.com/home",
 			},
 		],
 		// Second buttons group
