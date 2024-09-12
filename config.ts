@@ -191,11 +191,11 @@ export const config: Config = {
 				links: [
 					{
 						name: "S-Plan",
-						url: "https://splan.hdm-stuttgart.de/splan",
+						url: "https://splan.hdm-stuttgart.de/",
 					},
 					{
 						name: "Selma",
-						url: "https://idp.hdm-stuttgart.de/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+						url: "https://selma.hdm-stuttgart.de/",
 					},
 					{
 						name: "Moodle",
